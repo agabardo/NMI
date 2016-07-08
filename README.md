@@ -1,4 +1,5 @@
 # NMI
+Original repository from: https://github.com/LuizHNLorena/NMI
 
 Calculate NMI (normalized Mutual Information) as defined by Danon et al (2005).
 	
